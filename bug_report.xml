@@ -1,1 +1,12 @@
-
+<Bug Name>Application crashes upon clicking the SAVE button while creating a new user</Bug Name>
+<Bug ID>(It will be automatically created by the BUG Tracking tool once you save this bug)</Bug ID>
+<Area Path>USERS menu -> New Users</Area Path>
+<Build Number>Version Number 5.0.1</Build Number>
+<Severity> HIGH (High/Medium/Low) or 1</Severity> 
+<Priority> HIGH (High/Medium/Low) or 1</Priority>
+<Assigned to>Developer-X</Assigned to>
+<Reported By>Your Name</Reported By>
+<Reported On>Date</Reported On>
+<Reason>Defect</Reason>
+<Status>New/Open/Active (Depends on the Tool you are using)</Status>
+<Environment>Windows 2003/SQL Server 2005</Environment>
