@@ -1,12 +1,15 @@
-<bug_name>application_crashes_upon_clicking_the_SAVE_button_while_creating_a_new_user<bug_name>
-<bug_id>111</bug_id>
-<area_path>users_menu_new_users</area_path>
-<build_number>version_number5.0.1</build_number>
-<severity>high</severity> 
-<priority>high</priority>
-<assigned_to>developer</assigned_to>
-<reported_by>your_name</reported_by>
-<reported-on>date</reported-on>
-<reason>defect</reason>
-<status>new</status>
-<environment>windows2003/sql_server2005</environment>
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+  <bug_name>application_crashes_upon_clicking_the_SAVE_button_while_creating_a_new_user<bug_name>
+  <bug_id>111</bug_id>
+  <area_path>users_menu_new_users</area_path>
+  <build_number>version_number5.0.1</build_number>
+  <severity>high</severity> 
+  <priority>high</priority>
+  <assigned_to>developer</assigned_to>
+  <reported_by>your_name</reported_by>
+  <reported-on>date</reported-on>
+  <reason>defect</reason>
+  <status>new</status>
+  <environment>windows2003/sql_server2005</environment>
+</bug_report>
