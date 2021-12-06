@@ -1,4 +1,6 @@
- <Name>Julia</Name>
- <Age>35</Age>
- <Pets>no</Pets>
- <Salary>good</Salary>
+<about_me> 
+  <name>Julia</name>
+  <age>35</age>
+  <pets>no</pets>
+  <salary>good</salary>
+</about_me> 
