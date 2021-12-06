@@ -1,5 +1,7 @@
-<Film>Interstellar</Film>
-<Series>Friends</Series>
-<Food>Salad</Food>
-<Season>Summer</Season>
-<Counrty>Spain</Country>
+<preferences>
+  <film>Interstellar</film>
+  <series>Friends</series>
+  <food>Salad</food>
+  <season>Summer</season>
+  <counrty>Spain</country>
+ </preferences>
